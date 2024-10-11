@@ -12,13 +12,11 @@ package com.mycompany.vic;
     
     public static void main(String[] args) {
         
-        //entrada
     int A,B,C,D;
     A=1;
     B=4;
     C=8;
     
-    //PROCESSAMENTo
    D=A+B+C; 
    
         System.out.println("*** Treino de estrutura logica***");
