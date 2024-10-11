@@ -12,7 +12,6 @@ import java.util.Scanner;
     
     public static void main(String[] args) {
         
-        //entrada
     Scanner scanner = new Scanner(System.in);
     
     int idade;
@@ -20,8 +19,7 @@ import java.util.Scanner;
     System.out.println("----Programa de comparação maior idade-----");
     System.out.println("Digite a idade");
     idade = scanner.nextInt();
-    
-    //PROCESSAMENTo
+   
    if (idade>= 18) {
        System.out.println("Aluno maior idade");
        
